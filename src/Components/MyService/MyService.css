@@ -1,0 +1,12 @@
+.serviceDropdown select{
+    width: 20%;
+    margin-left: auto;
+    margin-bottom: 25px;
+}
+@media(max-width:998px){
+    .serviceDropdown select{
+            width: 50%;
+            margin-left: auto;
+            margin-bottom: 25px;
+    }
+}
